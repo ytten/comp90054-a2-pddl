@@ -4,7 +4,7 @@
 
 **Semester:** Semester 2, 2022
 
-**Student:**
+**Student:**  1068371  Yue Teng  ytten@student.unimelb.edu.au
 
 * Your Student number - First Name - Last Name - Student email
 
